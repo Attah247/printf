@@ -1,5 +1,6 @@
-
-#include "main.h"
+#include "main.h"/**
+ * Colaborators; Atthah Samuel and Igbashal Grace
+ */
 
 unsigned int print_width(buffer_t *output, unsigned int printed,
 		unsigned char flags, int wid);
