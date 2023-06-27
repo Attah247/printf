@@ -5,6 +5,9 @@
 #include <stdarg.h>
 #include <stdlib.h>
 #include <unistd.h>
+/**
+ * Colaborators; Atthah Samuel and Igbashal Grace
+ */
 
 /* Flag Modifier Macros */
 #define PLUS 1
